@@ -467,16 +467,26 @@ font-weight: bold;
 	width: 90%;
 	display: inline-block;
 	}
+		
+	#events{
+	display: inline-block;
+	text-align: center;
+	color: darkslategray;
+	padding: 0;
+	margin:0;
+	width: 100%;
+	float: left;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		}
 
 	form{
+		display: inline-block;
+		text-align: center;
+			padding:0;
+	margin:0;
 	width: 100%;
 	}
 		
-	.cupcakes{
-	position: inline-block;
-	width: 90%;
-	
-	}
 		
 	#cupFairy{
 	display: inline-block;
@@ -509,8 +519,8 @@ font-weight: bold;
 	}
 		
 	.topcupcakes3{
-	position: inline-block;
-	width: 80%;
+	display: inline-block;
+	width: 90%;
 	}
 
 	#treats{
