@@ -80,6 +80,7 @@ body.background{
 	display: inline-block;
 	text-align: center;
 	padding-left: 13%;
+	padding-top: 2%;
 	width: 80%;
 }
 
@@ -93,7 +94,7 @@ body.background{
 .topcupcakes3{
 	position: absolute;
     right: 12%;
-    top: 75%;
+    top: 130%;
     z-index: -1;
 	width: 75%
 	
