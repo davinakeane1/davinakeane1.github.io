@@ -166,21 +166,23 @@ body.background{
 	
 	color: darkslategray;
 	position: inline-block;
-	padding-left: 25%;
-	margin: 1%;
+	float: left;
+	padding-left: 20%;
+	margin: 0;
 	width: 30%;
+	font-size: 120%;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
 }
 
 #address{
 	
 	color: darkslategray;
-	
-	position: relative;
-	right: 20%;
-	bottom: 530px;
 	float: right;
-	width: 18%;
+	margin-right: 2%;
+	width: 20%;
+	font-size: 120%;
+	display: inline-block;
+	padding-right: 20%;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
 }
 
@@ -188,8 +190,11 @@ body.background{
 	
 	color: darkslategray;
 	position: inline-block;
-	padding-left: 26%;
+	float: left;
+	padding-left: 21%;
 	width: 30%;
+	margin: 0;
+	font-size: 120%;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
 }
 
