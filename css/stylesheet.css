@@ -5,9 +5,9 @@
 
 	body.background{
 		background: url("../images/whiteWall.jpg") no-repeat center center fixed; /*Background image for pages*/
-		-webkit-background-size: cover;
+		/*-webkit-background-size: cover;
 		-moz-background-size: cover;
-		-o-background-size: cover;
+		-o-background-size: cover;*/
 		background-size: cover;
 		}
 
@@ -57,12 +57,12 @@
 	#cupFairy{
 		width: 100%;
 		color: darkslategray;
-		position: inline-block;
+		display: inline-block;
 		text-align: center;
 		float: left;
 		margin: 0;
 		font-size: 140%;
-		font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		font-family: Georgia, "Times New Roman", serif;
 		}
 
 
@@ -106,13 +106,13 @@
 
 	#quote1{
 		color: darkslategray;
-		position: inline-block;
+		display: inline-block;
 		float: left;
 		padding-left: 16%;
 		width: 40%;
 		margin: 0%;
 		font-size: 140%;
-		font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		font-family: Georgia, "Times New Roman", serif;
 		}
 
 	.baby{
@@ -137,7 +137,7 @@
 		width: 50%;
 		float: right;
 		text-align: center;
-		font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		font-family: Georgia, "Times New Roman", serif;
 		}
 
 	#story2{
@@ -147,7 +147,7 @@
 		width: 50%;
 		float: right;
 		text-align: center;
-		font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		font-family: Georgia, "Times New Roman", serif;
 		padding:1%;
 		}
 
@@ -167,13 +167,13 @@
 
 	#aboutus{
 		color: darkslategray;
-		position: inline-block;
+		display: inline-block;
 		float: left;
 		padding-left: 20%;
 		margin: 0;
 		width: 30%;
 		font-size: 140%;
-		font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		font-family: Georgia, "Times New Roman", serif;
 		}
 
 	#address{
@@ -184,18 +184,18 @@
 		font-size: 140%;
 		display: inline-block;
 		padding-right: 20%;
-		font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		font-family: Georgia, "Times New Roman", serif;
 		}
 
 	#events{
 		color: darkslategray;
-		position: inline-block;
+		display: inline-block;
 		float: left;
 		padding-left: 20%;
 		width: 50%;
 		margin: 0;
 		font-size: 140%;
-		font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		font-family: Georgia, "Times New Roman", serif;
 		}
 
 	.img-circle{
@@ -391,7 +391,7 @@
 			padding:0;
 			margin:0;
 			float: left;
-			font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+			font-family: Georgia, "Times New Roman", serif;
 			}
 
 		#story2{
@@ -402,7 +402,7 @@
 			margin:0;
 			width: 100%;
 			float: left;
-			font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+			font-family: Georgia, "Times New Roman", serif;
 			}
 
 		#image1{
@@ -432,7 +432,7 @@
 			margin:0;
 			width: 100%;
 			float: left;
-			font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+			font-family: Georgia, "Times New Roman", serif;
 			}
 
 		#quote1{
@@ -443,7 +443,7 @@
 			margin:0;
 			width: 100%;
 			float: left;
-			font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+			font-family: Georgia, "Times New Roman", serif;
 			}
 
 		#babycake{
@@ -470,7 +470,7 @@
 			margin:0;
 			width: 100%;
 			float: left;
-			font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+			font-family: Georgia, "Times New Roman", serif;
 			}
 
 		iframe{
