@@ -243,6 +243,7 @@ li a:hover {
 }
 
 form{
+	psoition: fixed;
 	margin-left: 25%;
 	width: 30%;
 	background-color: BlanchedAlmond;
@@ -411,7 +412,6 @@ li a:hover {
 
 form{
 	width: 100%;
-	
 }
 
 
