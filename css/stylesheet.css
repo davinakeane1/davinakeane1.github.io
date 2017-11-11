@@ -371,13 +371,6 @@ font-weight: bold;
 		margin:0;
 	}
 
-/*.logo{
-	    position: absolute;
-    left: 0px;
-    top: 0px;
-    z-index: -1;
-}*/
-
 	.logo{
 		display: block;
 		text-align: center;
@@ -462,14 +455,15 @@ font-weight: bold;
 	#image1{
 	width: 90%;
 	display: inline-block;
-		padding-left: 1%;
 	
+	text-align: center;
 	}
 
 	#image2{
 	width: 90%;
 	display: inline-block;
-		padding-left: 1%;
+	
+	text-align: center;
 	}
 		
 		
@@ -493,21 +487,24 @@ font-weight: bold;
 	width: 100%;
 	float: left;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
-}
+	}
 
 	.baby{
 	width: 90%;
 	display: inline-block;
-}
+	padding-bottom: 6%;
+	
+	margin: 5%;
+	
+	}
 		
 		
 
 	form{
 	display: inline-block;
-		padding-left: 1%;
 	text-align: center;
-	padding:0;
-	margin:0;
+	padding: 2%;
+	margin: 1%;
 	width: 90%;
 	}
 		
@@ -539,7 +536,7 @@ font-weight: bold;
 	#video1{
 	display: block;
 	text-align: center;
-	width: 80%;
+	width: 40%;
 	}
 		
 	.topcupcakes3{
