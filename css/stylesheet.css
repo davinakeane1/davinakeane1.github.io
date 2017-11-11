@@ -4,7 +4,7 @@ body{
 }
 
 body.background{
-	background: url("../images/whitebrick.jpg") no-repeat center center fixed; /*Background image for pages*/
+	background: url("../images/whiteWall.jpg") no-repeat center center fixed; /*Background image for pages*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
