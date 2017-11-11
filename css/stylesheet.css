@@ -440,16 +440,20 @@ font-weight: bold;
 	}
 
 	#image1{
-	width: 90%;
+	padding: 0;
+	margin:0;
+	width: 100%;
+	float: left;
 	display: inline-block;
-	
 	text-align: center;
 	}
 
 	#image2{
-	width: 90%;
+	padding: 0;
+	margin:0;
+	width: 100%;
+	float: left;
 	display: inline-block;
-	
 	text-align: center;
 	}
 		
