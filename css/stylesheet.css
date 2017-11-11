@@ -76,6 +76,13 @@ body.background{
 	float: right;
 }
 
+#video1{
+	display: inline-block;
+	text-align: center;
+	padding-left: 13%;
+	width: 80%;
+}
+
 .topcupcakes1{
 	position: relative;
 	bottom: -50px;
@@ -470,6 +477,27 @@ font-weight: bold;
 	
 	}
 		
+	#cupFairy{
+	display: inline-block;
+	width: 100%;
+}
+
+.cupcakes{
+	position: inline-block;
+	width: 90%;
+}
+
+.fairy{
+	display: inline-block;
+	width: 90%;
+}
+
+#video1{
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+		
 	.topcupcakes3{
 	position: inline-block;
 	width: 80%;
@@ -478,7 +506,7 @@ font-weight: bold;
 	}
 
 	#treats{
-	display: inline-block;
+	display: block;
 	width: 90%;
 	color: #05719E;
 	text-shadow: 1px 1px 2px black, 0 0 25px #923E72, 0 0 5px plum;
