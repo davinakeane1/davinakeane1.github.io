@@ -76,13 +76,16 @@ body.background{
 	float: right;
 }
 
-#video1{
+iframe{
 	display: inline-block;
 	text-align: center;
-	padding-left: 13%;
 	padding-top: 2%;
-	width: 80%;
+	padding-left: 13%;
+	width: 25%;
+	
 }
+
+
 
 .topcupcakes1{
 	position: relative;
@@ -93,8 +96,9 @@ body.background{
 
 .topcupcakes3{
 	position: absolute;
+	display: inline-block;
     right: 12%;
-    top: 130%;
+    top: 110%;
     z-index: -1;
 	width: 75%
 	
@@ -158,7 +162,6 @@ body.background{
 #story2{
 	display: inline-block;
 	color: darkslategray;
-	
 	font-size: 140%;
 	width: 50%;
 	float: right;
@@ -219,10 +222,6 @@ body.background{
 	margin: 0;
 	font-size: 140%;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
-}
-
-#bottomhalf{
-	height: 200px;
 }
 
 .img-circle{
@@ -520,30 +519,24 @@ font-weight: bold;
 
 	.cupcakes{
 	position: block;
-	width: 90%;
+	width: 80%;
 	}
 
 	.fairy{
 	display: block;
-	width: 90%;
+	width: 80%;
 	}
 		
 	.popcake{
 	display: block;
-	width: 90%;
-		}
-
-	#video1{
-	display: block;
-	text-align: center;
-	width: 40%;
+	width: 80%;
 	}
 		
-		iframe{
-		display: block;
-		text-align: center;
-		width: 20%;
-		}
+	iframe{
+	display: block;
+	text-align: center;
+	width: 80%;
+	}
 		
 	.topcupcakes3{
 	display: block;
