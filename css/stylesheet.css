@@ -513,7 +513,7 @@ font-weight: bold;
 		
 		
 	#cupFairy{
-	display: inline-block;
+	display: block;
 	width: 100%;	
 	text-align: center;
 	padding:0;
@@ -522,28 +522,28 @@ font-weight: bold;
 	}
 
 	.cupcakes{
-	position: inline-block;
+	position: block;
 	width: 90%;
 	}
 
 	.fairy{
-	display: inline-block;
+	display: block;
 	width: 90%;
 	}
 		
 	.popcake{
-	display: inline-block;
+	display: block;
 	width: 90%;
 		}
 
 	#video1{
-	display: inline-block;
+	display: block;
 	text-align: center;
 	width: 80%;
 	}
 		
 	.topcupcakes3{
-	display: inline-block;
+	display: block;
 	width: 90%;
 	}
 
