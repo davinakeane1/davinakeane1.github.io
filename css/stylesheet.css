@@ -395,18 +395,17 @@ li a:hover {
 	#story1{
 	display:inline-block;
 	color: darkslategray;
-	padding-left:2%;
-	width: 100%;
+	padding: 5%;
+	width: 90%;
 	float: left;
-	
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
 	
 }
 	#story2{
 	display: inline-block;
 	color: darkslategray;
-	padding-left:2%;
-	width: 100%;
+	padding: 5%;
+	width: 90%;
 	float: left;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
 	
