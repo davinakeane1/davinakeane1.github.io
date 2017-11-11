@@ -392,20 +392,20 @@ li a:hover {
     background-color: #923E72;
 }
 		
-		#story1{
+	#story1{
 	display:inline-block;
 	color: darkslategray;
-	
+	padding-left:2%;
 	width: 100%;
 	float: left;
 	
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
 	
 }
-#story2{
+	#story2{
 	display: inline-block;
 	color: darkslategray;
-	
+	padding-left:2%;
 	width: 100%;
 	float: left;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
