@@ -414,6 +414,12 @@ li a:hover {
 form{
 	width: 100%;
 }
+		
+	.cupcakes{
+	position: inline-block;
+	width: 90%;
+	
+}
 
 
 
