@@ -100,12 +100,6 @@ body.background{
 	
 }
 
-.baby{
-	display: inline-block;
-	text-align: left;
-	margin-left: 60%;
-}
-
 
 #treats{
 	display: inline-block;
@@ -126,10 +120,18 @@ body.background{
 #quote1{
 	color: darkslategray;
 	position: inline-block;
+	float: left;
 	padding-left: 16%;
 	width: 40%;
 	margin: 0%;
+	font-size: 140%;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
+
+.baby{
+	display: inline-block;
+	float: right;
+	padding-right: 16%;
 }
 
 #stories{
@@ -490,6 +492,24 @@ font-weight: bold;
 	float: left;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
 		}
+		
+	#quote1{
+	display: inline-block;
+	text-align: center;
+	color: darkslategray;
+	padding: 0;
+	margin:0;
+	width: 100%;
+	float: left;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
+
+	.baby{
+	width: 90%;
+	display: inline-block;
+}
+		
+		
 
 	form{
 	display: inline-block;
@@ -527,7 +547,7 @@ font-weight: bold;
 	#video1{
 	display: inline-block;
 	text-align: center;
-	width: 90%;
+	width: 80%;
 	}
 		
 	.topcupcakes3{
