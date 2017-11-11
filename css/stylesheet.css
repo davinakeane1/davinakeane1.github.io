@@ -488,13 +488,12 @@ font-weight: bold;
 	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
 	}
 
-	.baby{
+	#babycake{
 	width: 90%;
 	display: inline-block;
 	padding-bottom: 6%;
 	text-align: center;
 	margin: 5%;
-	
 	}
 		
 		
@@ -519,17 +518,20 @@ font-weight: bold;
 
 	.cupcakes{
 	position: block;
-	width: 80%;
+		text-align: center;
+	width: 100%;
 	}
 
 	.fairy{
 	display: block;
-	width: 80%;
+		text-align: center;
+	width: 100%;
 	}
 		
 	.popcake{
 	display: block;
-	width: 80%;
+		text-align: center;
+	width: 100%;
 	}
 		
 	iframe{
@@ -539,7 +541,8 @@ font-weight: bold;
 	}
 		
 	.topcupcakes3{
-	display: block;
+	position:fixed;
+	display: inline-block;
 	width: 90%;
 	}
 
