@@ -495,14 +495,12 @@ font-weight: bold;
 #video1{
 	display: inline-block;
 	text-align: center;
-	width: 100%;
+	width: 90%;
 }
 		
 	.topcupcakes3{
 	position: inline-block;
 	width: 80%;
-    z-index: -1;
-	
 	}
 
 	#treats{
