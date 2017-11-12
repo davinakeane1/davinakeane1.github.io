@@ -144,9 +144,10 @@
 
 	#image1{
 		width: 30%;
-		display: block;
+		display: inline-block;
 		float: left;
-		margin-left: 19%;
+		padding-left: 19%;
+		overflow: hidden; /*this stops the image overlapping text when screen is resized, instead the image goes behind the div*/
 		}
 
 	#image2{
@@ -438,11 +439,12 @@
 			}
 
 		#babycake{
-			width: 90%;
+			padding: 0;
+			margin:0;
+			width: 100%;
+			float: left;
 			display: inline-block;
-			padding-bottom: 6%;
 			text-align: center;
-			margin: 5%;
 			}
 
 		form{
@@ -485,5 +487,5 @@
 			color: #05719E;
 			text-shadow: 1px 1px 2px black, 0 0 25px #923E72, 0 0 5px plum;
 			}
-
+	
 		} /*Media query closing bracket*/
