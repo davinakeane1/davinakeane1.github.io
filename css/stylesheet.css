@@ -11,36 +11,28 @@
 		background-size: cover;
 		}
 
-	#container{
+	#container{ /*container styling*/
 		width: 90%;
 		margin: auto;
 		}
 
-	#options{
+	#options{ 
 		width: 80%;
 		}
 
-	#header{
-		text-align: center;
-		position: relative;
-		bottom: -5px;
-		text-shadow: 1px 1px 2px black, 0 0 25px magenta, 0 0 5px purple;
-		font-size: 130%;
-		}
-
-	#socialbuttons{
+	#socialbuttons{ /*Styling div for social medis buttons*/
 		display: inline-block;
 		text-align: right;
 		margin-left:30%;
 		}
 
-	.logo{
+	.logo{ /*Styling for the logo*/
 		display:inline-block;
 		text-align: left;
 		margin-left:10%;
 		}
 
-	.socialm{
+	.socialm{ /*class for social medis buttons*/
 		position: relative;
 		top: -80px;
 		left: 35%;
@@ -54,7 +46,7 @@
 		}
 
 
-	#cupFairy{
+	#cupFairy{ 
 		width: 100%;
 		color: darkslategray;
 		display: inline-block;
@@ -83,7 +75,7 @@
 
 		}
 
-	.topcupcakes3{
+	.topcupcakes3{ /*z index image*/
 		position: absolute;
 		display: inline-block;
 		right: 12%;
@@ -93,14 +85,14 @@
 		}
 
 
-	#treats{
+	#treats{ /*text over z index image*/
 		display: inline-block;
 		text-align: left;
 		margin-left: 20%;
 		width: 55%;
 		padding: 3%;
 		color: #05719E;
-		text-shadow: 1px 1px 2px white, 0 0 25px #923E72, 0 0 5px plum;
+		text-shadow: 1px 1px 2px white, 0 0 25px #923E72, 0 0 5px plum; /*puts a shadow over text, easeier to read over an image*/
 		}
 
 
@@ -132,7 +124,6 @@
 	#story1{
 		display:inline-block;
 		color: darkslategray;
-
 		font-size: 140%;
 		width: 50%;
 		float: right;
@@ -199,22 +190,22 @@
 		}
 
 	.img-circle{
-		border-radius: 35%;
+		border-radius: 35%; /*Makes images rounded rounded*/
 		}
 
 	.img-circle2{
-		border-radius: 35%;
+		border-radius: 35%; /*Makes images rounded rounded*/
 		}
 
-	h1, h2{
+	h1, h2{ /*header 1 & 2 styling*/
 		color: darkslategray;
 		}
 
-	nav{
+	nav{ /*nav bar*/
 		width: 100%;
 		}
 
-	ul {
+	ul { /*unordered list*/
 		list-style-type: none;
 		border: groove;
 		border-color: #F18789;
@@ -226,14 +217,14 @@
 		}
 
 
-	li {
+	li { /*list styling*/
 		display:inline-block;
 		text-align: center;
 		width: 19%;
 		font-size: 29px; /*This is for the size of the font in the nav bar*/
 		}
 
-	li a {
+	li a { /*list styling anchor*/
 		display: inline-block;
 		color: white;
 		height: 50px;
@@ -247,12 +238,12 @@
 		background-color: #923E72;
 		}
 
-	.current {
+	.current { /*lists the uesr know where theare*/
 		background-color: #923E72;
 		color: white;
 		}
 
-	.footer{
+	.footer{ /*fixed footer styling*/
 		color: mediumvioletred;
 		position: fixed;
 		left: 0;
@@ -264,8 +255,8 @@
 		text-align: center;
 		}
 
-	form{
-		position: fixed;
+	form{ /*form styling*/
+		position: fixed; /*set to fixed*/
 		margin-left: 25%;
 		width: 30%;
 		height: 35%;
@@ -274,7 +265,7 @@
 		padding: 4%;
 		}
 
-	label{
+	label{ /*label styling*/
 		display:block;
 		float: left;
 		width: 25%;
@@ -282,16 +273,16 @@
 		color: #923E72;
 		}
 
-	fieldset{
+	fieldset{ /*fieldset styling*/
 		background-color: CornSilk;
 		}
 
-	legend {
+	legend { /*legend styling*/
 	color:darkviolet;
 	border: 3px outset #923E72;
 		}
 
-	#submit, #reset{
+	#submit, #reset{ /*submit & reset buttons styling*/
 		width: 100px;
 		border: 3px outset #923E72 ;
 		background-color: White;
@@ -302,7 +293,7 @@
 		}
 
 
-@media screen and (max-width : 842px ){
+@media screen and (max-width : 842px ){ /*media query to make the site mobile friendly*/
 	
 		body{
 			width: 100%;
